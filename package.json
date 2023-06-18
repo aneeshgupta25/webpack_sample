@@ -16,8 +16,7 @@
     "webpack": "^4.39.1",
     "webpack-cli": "^3.3.11"
   },
-  "devDependencies": {
-    "cross-env": "^7.0.3",
+  "devDependencies":{
     "webpack-dev-server": "^3.11.0"
   }
 }
